@@ -16,6 +16,7 @@
 "TR_J_pseudogene","long"
 "TR_V_pseudogene","long"
 "protein_coding","long"
+"transposable_element","long"
 "snRNA","small"
 "snoRNA","small"
 "scaRNA","small"
