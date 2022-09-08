@@ -13,7 +13,7 @@ setup(
     description="RNA-seq counting tool",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/hitaandrea/MGcount",
+    url="https://github.com/Migaalee/MGcount",
     author="Andrea Hita",
     author_email="hitaandrea@gmail.com",
     license="GNU GENERAL PUBLIC LICENSE",
